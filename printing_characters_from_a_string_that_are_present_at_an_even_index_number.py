@@ -10,3 +10,12 @@
 # n
 # t
 # v
+
+# pseudocode
+# input word
+
+# print original string
+
+# print what program run
+
+# range for word
